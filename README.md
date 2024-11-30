@@ -24,7 +24,7 @@
     <li>💻 Interested in <strong>fintech, data science, and business analysis</strong>.</li>
 
 
-# 👩‍💻 Meet me...
+# 👩‍💻 Meet me
 Bank is an economics graduate with a love for numbers, a curiosity for tech, and a dream of turning data into magic. Once upon a time, I wanted to work in an oil company—because why not mix childhood dreams with a name like Bank?
 
 ## 🏡 Dream
