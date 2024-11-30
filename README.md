@@ -1,8 +1,7 @@
 <!-- Linting is being ignored for the inline HTML and other non-Markdown elements to preserve the typing effect animation. -->
-<div align="center">
-<div align="center">
-  <!-- Typing SVG with updated font, color, and size -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=36&pause=1000&color=0000FF&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%98%8A+I'm+Bank+Chiugo;Economist+%7C+Tech+Enthusiast;Aspiring+Data+Scientist;Driven+by+Impact+%26+Integrity" alt="Typing SVG" />
+# Hi, I'm Bank Chiugo 😊
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=36&pause=1000&color=0000FF&center=true&width=700&height=80&lines=Economist+%7C+Tech+Enthusiast;Aspiring+Data+Scientist;Driven+by+Impact+%26+Integrity)
 
   <!-- Social media and contact buttons -->
   <p align="center">
