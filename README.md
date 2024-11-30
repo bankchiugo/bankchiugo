@@ -1,3 +1,5 @@
+<!-- Linting is being ignored for the inline HTML and other non-Markdown elements to preserve the typing effect animation. -->
+<div align="center">
 <div align="center">
   <!-- Typing SVG with updated font, color, and size -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=36&pause=1000&color=0000FF&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%98%8A+I'm+Bank+Chiugo;Economist+%7C+Tech+Enthusiast;Aspiring+Data+Scientist;Driven+by+Impact+%26+Integrity" alt="Typing SVG" />
@@ -26,8 +28,7 @@
 Bank is an economics graduate with a love for numbers, a curiosity for tech, and a dream of turning data into magic. Once upon a time, I wanted to work in an oil company—because why not mix childhood dreams with a name like Bank?
 
 ## Fun
-Passionate about making a difference, Bank also dreams of tackling homelessness and poverty in Nigeria—because changing the world sounds like a fun challenge. When I'm not crunching numbers, I am reading novels, watching motivational movies, and wondering if my next big idea will make me the Elon Musk of techology and welfare economics.
-
+Passionate about making a difference, I also dream of tackling homelessness and poverty in Nigeria—because changing the world sounds like a fun challenge. When I'm not crunching numbers, I am reading novels, watching motivational movies, and wondering if my next big idea will make me the Elon Musk of techology and welfare economics.
 
 
 <!-- Closing motivational quote -->
