@@ -17,8 +17,8 @@
     </a>
   </p>
 
-  <!-- Fun facts section -->
-  <h3>🌟 Fun Facts About Me</h3>
+  <!-- Career facts section -->
+  <h3>🌟 Career Facts About Me</h3>
   <ul style="list-style-type: none;">
     <li>🎓 Graduate in Economics with a passion for <strong>data-driven solutions</strong>.</li>
     <li>💻 Interested in <strong>fintech, data science, and business analysis</strong>.</li>
@@ -27,8 +27,11 @@
 # 👩‍💻 Meet me...
 Bank is an economics graduate with a love for numbers, a curiosity for tech, and a dream of turning data into magic. Once upon a time, I wanted to work in an oil company—because why not mix childhood dreams with a name like Bank?
 
-## Fun
-Passionate about making a difference, I also dream of tackling homelessness and poverty in Nigeria—because changing the world sounds like a fun challenge. When I'm not crunching numbers, I am reading novels, watching motivational movies, and wondering if my next big idea will make me the Elon Musk of techology and welfare economics.
+## Dream
+Passionate about making a difference, I also dream of tackling homelessness and poverty in Nigeria—because changing the world is crucial to driving positive social change.
+
+## Fun time
+When I'm not crunching numbers, I am reading novels, watching motivational movies, and wondering if my next big idea will make me the Elon Musk of techology and welfare economics.
 
 
 <!-- Closing motivational quote -->
